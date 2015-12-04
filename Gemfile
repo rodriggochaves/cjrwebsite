@@ -39,8 +39,10 @@ gem 'high_voltage', '~> 2.4'
 gem 'slim', '~> 3.0', '>= 3.0.6'
 
 # Active admin for cms
-gem 'activeadmin'
-gem "meta_search", '>= 1.1.0.pre'
+# gem 'activeadmin'
+
+# material design lite for beatiful screen
+gem 'material_design_lite-sass'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
